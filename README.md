@@ -4,7 +4,7 @@
 **Objective**:
 To build a scalable and safe image classification model for Scones Unlimited using Amazon SageMaker.
 
-### AWS Services used:
+### Amazon Web Services used:
 - *Amazon Sagemaker*: Cloud-based machine-learning platform that allows the creation, training, and deployment by developers of machine-learning models on the cloud.
 - *Amazon Lambda*: Serverless compute service for running code without having to provision or manage servers.
 - *Amazon Simple Storage Service (S3)*: Cloud object storage.
